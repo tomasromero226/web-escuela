@@ -1,0 +1,22 @@
+/* Color personalizado para los botones */
+.btn-custom {
+    background-color: #780000; /* Color de fondo */
+    color: #ffffff; /* Color del texto */
+    border: none; /* Eliminar borde */
+  }
+  
+  /* Color del texto en los botones al pasar el ratón */
+  .btn-custom:hover {
+    background-color: #a50000; /* Color de fondo al pasar el ratón */
+  }
+  
+  /* Estilo para el fondo del header */
+  .navbar {
+    background-color: #e9ecef; /* Color de fondo */
+  }
+  
+  /* Estilo para el pie de página */
+  footer {
+    background-color: #f1f1f1; /* Color de fondo */
+    color: #333; /* Color del texto */
+  }

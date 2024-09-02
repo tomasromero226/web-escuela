@@ -1,0 +1,33 @@
+
+body{
+     background-color: #e4e2e2;
+}
+.container-fluid{
+     background-color: #780000;
+    
+
+}
+.navbar-brand{
+     color: #ffffff;
+}
+.offcanvas-body {
+     background-color: #e4e2e2;
+}
+header{
+     font-family: 'Times New Roman';
+}
+main{
+     text-align: center;
+     margin-top: auto;
+     font-family:  serif; 
+}
+footer{
+     padding: 10px;
+     background-color: #00cfff;
+     text-align: center;
+     font-family:serif ;
+}
+a{
+     text-decoration: none;
+     color: black;
+}
